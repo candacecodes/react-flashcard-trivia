@@ -12,9 +12,10 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 At the top: Category: Select which category of trivia
-Select the number of questions
+<br>
+Select the number of questions<br>
 Click generate 
-
+<br>
 
 
 

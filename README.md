@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Trivia Flashcard App 
+Trivia Flashcard App using API from opentdb
 
 ## Available Scripts
 
